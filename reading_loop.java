@@ -11,7 +11,7 @@ public class reading_loop {
           System.out.println("Анатолий прочитал " + i + "-ю главу");
         }
     } else {
-        System.out.println("Сегодня не читаем.");
+        System.out.println("Сегодня не читаем. Достаточно");
     }
   }
 
